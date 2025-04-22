@@ -21,22 +21,7 @@ You may track your focus sessions across multiple projects, work completely offl
 
 ## Install / Run
 
-> ⚠️ Pomonaut is under active development. Basic features work offline in browser.
-
-### Web (dev)
-```bash
-npm install
-npm run dev
-```
-
-### Desktop (Tauri)
-```bash
-# requires Rust + Tauri setup
-npm install
-npm run tauri dev
-```
-
-> Mobile and packaged installers will be documented soon.
+> ⚠️ Pomonaut is under active development. Documenting soon.
 
 ---
 
