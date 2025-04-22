@@ -42,7 +42,7 @@ npm run tauri dev
 
 ## License
 
-This project is licensed under the [**GNU Affero General Public License v3.0 (AGPL-3.0)**](LICENSE)  
+This project is licensed under the [**GNU Affero General Public License v3.0 (AGPL-3.0)**](LICENSE).  
 You are free to use, modify, and self-host the app, but any public-facing version must also publish its source code.
 
 ---
